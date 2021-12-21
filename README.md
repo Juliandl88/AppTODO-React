@@ -71,7 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-Commands used to install Font awesome:
+MODULOS NECESARIOS PARA LA APLICACIÓN
+
 $ npm i --save @fortawesome/fontawesome-svg-core
 
 $ npm i --save @fortawesome/free-solid-svg-icons
